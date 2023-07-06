@@ -5,6 +5,8 @@
     border: 5px solid purple;
     padding: 10px;
 }
-.hot{
-    width: min-content;
+img {
+    width: 100px;
+    border: 2px solid purple;
+    
 }
